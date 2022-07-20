@@ -41,7 +41,7 @@
   },
   "peerDependencies": {
     "@azure/msal-browser": "^2.19.0",
-    "react": "^16.8.0 || ^17"
+    "react": "^16.14.0 || ^17.0.0 || ^18.2.0"
   },
   "module": "dist/msal-react.esm.js",
   "devDependencies": {
