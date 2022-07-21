@@ -4,24 +4,25 @@
 [![npm version](https://img.shields.io/npm/dm/@azure/msal-react.svg)](https://nodei.co/npm/@azure/msal-react/)
 [![codecov](https://codecov.io/gh/AzureAD/microsoft-authentication-library-for-js/branch/dev/graph/badge.svg?flag=msal-react)](https://codecov.io/gh/AzureAD/microsoft-authentication-library-for-js)
 
+
 | <a href="https://docs.microsoft.com/azure/active-directory/develop/tutorial-v2-react" target="blank">Getting Started</a> | <a href="https://aka.ms/aaddevv2" target="_blank">AAD Docs</a> | <a href="https://azuread.github.io/microsoft-authentication-library-for-js/ref/modules/_azure_msal_react.html" target="_blank">Library Reference</a> | <a href="https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/dev/samples" target="blank">Samples</a>
 |--- | --- | --- | --- |
 
-1. [About](#about)
-1. [FAQ](https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-react/FAQ.md)
-1. [Changelog](https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-react/CHANGELOG.md)
-1. [Prerequisites](#prerequisites)
-1. [Installation](#installation)
-1. [Build and Test](#build-and-test)
-1. [Usage](#usage)
-    - [Getting Started](https://github.com/AzureAD/microsoft-authentication-library-for-js/blob/dev/lib/msal-react/docs/getting-started.md)
-    - [Msal Basics](#msal-basics)
+- [Microsoft Authentication Library for React (msal-react)](#microsoft-authentication-library-for-react-msal-react)
+  - [About](#about)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Build and Test](#build-and-test)
+    - [Building the package locally](#building-the-package-locally)
+    - [Running Tests](#running-tests)
+  - [Usage](#usage)
+    - [MSAL Basics](#msal-basics)
     - [Advanced Topics](#advanced-topics)
     - [MSAL React Specific Concepts](#msal-react-specific-concepts)
-1. [Samples](#samples)
-1. [Security Reporting](#security-reporting)
-1. [License](#license)
-1. [Code of Conduct](#we-value-and-adhere-to-the-microsoft-open-source-code-of-conduct)
+  - [Samples](#samples)
+  - [Security Reporting](#security-reporting)
+  - [License](#license)
+  - [We Value and Adhere to the Microsoft Open Source Code of Conduct](#we-value-and-adhere-to-the-microsoft-open-source-code-of-conduct)
 
 ## About
 
